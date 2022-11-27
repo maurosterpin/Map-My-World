@@ -1,8 +1,8 @@
-prefix=/home/workspace/new_ws/devel
+prefix=/home/workspace2/Map-My-World/devel
 
 Name: ball_chaser
 Description: Description of ball_chaser
 Version: 0.0.0
-Cflags: -I/home/workspace/new_ws/devel/include
+Cflags: -I/home/workspace2/Map-My-World/devel/include
 Libs: -L${prefix}/lib 
 Requires: 

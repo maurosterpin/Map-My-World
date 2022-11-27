@@ -1,4 +1,4 @@
-prefix=/home/workspace/new_ws/devel
+prefix=/home/workspace2/Map-My-World/devel
 
 Name: my_robot
 Description: Description of my_robot
