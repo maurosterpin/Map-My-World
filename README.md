@@ -1,7 +1,7 @@
 # Map-My-World
 
-## Database link
-https://drive.google.com/file/d/1Mf1yYE-Fg8EJIi08NqoW2n2OhOXI8dZM/view?usp=sharing
+## 3D Map
+![image](https://user-images.githubusercontent.com/92162018/204143423-97b1c043-8cd7-476d-b9cd-27da55c7efc3.png)
 ## Occupancy Grid
 ![image](https://user-images.githubusercontent.com/92162018/204139224-cf4dc92f-7322-4bd7-997f-f3e61950aa13.png)
 ## Graph View
